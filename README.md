@@ -1,11 +1,11 @@
 # Hey, I'm Jacob McClure 👋
-**Mechanical Engineering @ Tennessee Tech · Mechatronics · Class of 2026**
+**Mechanical Engineer · Tennessee Tech · Mechatronics · Class of 2026**
 
 ---
 
 ### About me
 
-I build things that merge hardware and software like embedded control systems, motor-driven mechanisms, and real-time firmware. Currently finishing my senior capstone: a multi-axis knee simulator with closed-loop position control.
+I build things that merge hardware and software like embedded control systems, motor-driven mechanisms, and real-time firmware. Recently finished my senior capstone: a multi-axis knee simulator with closed-loop position control.
 
 📍 Knoxville, TN  ·  🎓 B.S. Mechanical Engineering (GPA 3.82)  ·  🔍 Open to full-time roles starting Summer 2026
 
